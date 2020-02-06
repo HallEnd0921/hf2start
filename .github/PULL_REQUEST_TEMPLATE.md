@@ -27,6 +27,13 @@ A hivatalos teljes lista itt található: [https://bmeaut.github.io/evipdev/guid
 **Megjegyzések az elkészült megoldáshoz**
 
 
+**A videó újrahasznosíthatósága**
+
+A házi feladat videót oktatási célokra újrahasznosíthatjuk? (Későbbi évfolyamoknak bemutatás, vágott anyagban felhasználás.)
+- [ ] Igen, a szerzők megjelölésével
+- [ ] Igen, névtelenül
+- [ ] Nem
+
 **Ellenőrzési lista**
 - A pull request címe utal a tartalomra. Pl. HF2
 - A pull requestben csak azok a változások szerepelnek, amiket a megoldás során te hajtottál végre. A bin és obj könyvtár tartalma ugye nincsen benne?
