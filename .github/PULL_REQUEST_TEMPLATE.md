@@ -22,7 +22,7 @@ Bemutató videó URL: [videó](http://video.example.com/)
 - [ ] 5p: MVVM architektúra (legalább 3 modell és 3 view model osztállyal)
 - [ ] 5p: Többszálúság: Task és async-await használata.
 
-A hivatalos teljes lista itt található: [https://bmeaut.github.io/evipdev/guides/HaziFeladat2.html](https://bmeaut.github.io/evipdev/guides/HaziFeladat2.html)
+A hivatalos teljes lista a Moodle alatt olvasható.
 
 **Megjegyzések az elkészült megoldáshoz**
 
