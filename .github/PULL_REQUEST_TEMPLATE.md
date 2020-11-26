@@ -22,6 +22,12 @@ Bemutató videó URL: [videó](http://video.example.com/)
 - [ ] 5p: MVVM architektúra (legalább 3 modell és 3 view model osztállyal)
 - [ ] 5p: Többszálúság: Task és async-await használata.
 
+Olyan plusz pontok, amiket nem fed le a tananyag
+- [ ] 8p: Behaviour használata
+- [ ] 8p: Animációk használata
+- [ ] 5p: Style használata. Az 5 pont saját definiált stílusra vonatkozik, ami legalább 2 propertyt beállít. Előre gyártott stílus használata 1p.
+- [ ] 5p: OpenCvSharp használata
+
 A hivatalos teljes lista a Moodle alatt olvasható.
 
 **Megjegyzések az elkészült megoldáshoz**
